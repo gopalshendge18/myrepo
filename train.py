@@ -10,3 +10,4 @@ for result in results:
 print(boxes.xyxy)
 # Extract bounding box coordinates of all detected objects
 
+https://github.com/Borahb/Custom-OCR-YOLO/blob/master/Custom_OCR.py
